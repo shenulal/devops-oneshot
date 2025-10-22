@@ -113,5 +113,4 @@ kubectl port-forward svc/todo-api 3000:3000
 
 ---
 
-**This project is designed for learning. Each component is simplified for clarity while maintaining real-world practices.**
-
+**This project is designed for learning. Each component is simplified for clarity while maintaining real-world practices. Happy Coding**
